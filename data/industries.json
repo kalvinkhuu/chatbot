@@ -1,0 +1,74 @@
+{
+    "Web Development": {
+      "languages": ["JavaScript", "Python", "Ruby", "PHP", "TypeScript"],
+      "frameworks": ["React", "Angular", "Vue.js", "Django", "Ruby on Rails", "Laravel"],
+      "libraries": ["jQuery", "Bootstrap", "SASS"]
+    },
+    "Data Science": {
+      "languages": ["Python", "R", "Julia"],
+      "frameworks": ["TensorFlow", "PyTorch", "Keras"],
+      "libraries": ["pandas", "NumPy", "SciPy", "scikit-learn", "matplotlib", "seaborn"]
+    },
+    "Mobile Development": {
+      "languages": ["Swift", "Kotlin", "Java", "Dart"],
+      "frameworks": ["Flutter", "React Native", "Xamarin", "Ionic"],
+      "libraries": ["Retrofit", "Alamofire"]
+    },
+    "Game Development": {
+      "languages": ["C#", "C++", "Python"],
+      "frameworks": ["Unity", "Unreal Engine", "Godot"],
+      "libraries": ["Pygame", "Cocos2d"]
+    },
+    "DevOps": {
+      "languages": ["Python", "Go", "Ruby", "Shell"],
+      "frameworks": ["Docker", "Kubernetes", "Ansible", "Terraform"],
+      "libraries": ["PyYAML", "Boto3"]
+    },
+    "Embedded Systems": {
+      "languages": ["C", "C++", "Python"],
+      "frameworks": ["FreeRTOS", "MBed OS", "Zephyr"],
+      "libraries": ["CMSIS", "lwIP"]
+    },
+    "Finance and Fintech": {
+      "languages": ["Python", "Java", "C#", "R"],
+      "frameworks": ["Spring Boot", "Django"],
+      "libraries": ["Pandas", "NumPy", "QuantLib"]
+    },
+    "Artificial Intelligence and Machine Learning": {
+      "languages": ["Python", "R", "Java"],
+      "frameworks": ["TensorFlow", "Keras", "PyTorch"],
+      "libraries": ["scikit-learn", "pandas", "NumPy"]
+    },
+    "Blockchain": {
+      "languages": ["Solidity", "JavaScript", "Go", "Rust"],
+      "frameworks": ["Ethereum", "Hyperledger Fabric", "Polkadot"],
+      "libraries": ["web3.js", "ethers.js"]
+    },
+    "Cybersecurity": {
+      "languages": ["Python", "C", "C++", "JavaScript"],
+      "frameworks": ["Metasploit", "Kali Linux"],
+      "libraries": ["Scapy", "Impacket"]
+    },
+    "Computer Vision":{
+        "languages": ["Python", "C++", "Java"],
+        "frameworks": ["OpenCV", "TensorFlow", "PyTorch"],
+        "libraries": ["PIL", "scikit-image"]
+    },
+    "Cloud Computing": {
+      "languages": ["Python", "Java", "Go", "JavaScript"],
+      "frameworks": ["AWS", "Azure", "Google Cloud"],
+      "libraries": ["Boto3", "Azure SDK", "Google Cloud SDK"]
+    },
+    "Internet of Things (IoT)": {
+      "languages": ["Python", "C", "Java", "JavaScript"],
+      "frameworks": ["Arduino", "Raspberry Pi", "Node-RED"],
+      "libraries": ["MQTT", "Cayenne"]
+    },
+    "QA and Testing": {
+      "languages": ["Python", "Java", "JavaScript"],
+      "frameworks": ["Selenium", "Appium", "JUnit", "TestNG"],
+      "libraries": ["Pytest", "Jest", "Cucumber", "Selenium", "Cypress"]
+    }
+
+  }
+  
